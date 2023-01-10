@@ -43,14 +43,14 @@ const Section6Right = () => {
         </div>
         <div className='flex items-center mt-10 '>
             <input className=' p-5 bg-gray-200' type="text" placeholder='Enter email address' />
-            <img src={require('../Assets/Group 34.png')} alt="" />
+            <img src={require('../Assets/Group 34.png')} alt="img" />
         </div>
 
         <div className='flex gap-10 mt-12 items-center'>
-            <img src={require('../Assets/Vector-5.png')} alt="" />
-            <img src={require('../Assets/Vector-6.png')} alt="" />
-            <img src={require('../Assets/Vector-8.png')} alt="" />
-            <img src={require('../Assets/Vector-7.png')} alt="" />
+            <img src={require('../Assets/Vector-5.png')} alt="img" />
+            <img src={require('../Assets/Vector-6.png')} alt="img" />
+            <img src={require('../Assets/Vector-8.png')} alt="img" />
+            <img src={require('../Assets/Vector-7.png')} alt="img" />
         </div>
     </div>
   )

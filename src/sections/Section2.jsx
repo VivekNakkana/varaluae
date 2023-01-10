@@ -6,7 +6,7 @@ const Section2 = () => {
     <>
     <div className='flex items-center text-center mx-20 lg:flex-row flex-col lg:justify-center lg:items-center my-24 gap-2' >
         <p className='text-varal-blue text-xl font-semibold ' >Watch the video about UAE or Offshore Company Registration</p> 
-        <img className='w-16 h-16 border-1 p-3 border-2 rounded-[50%] border-varal-blue ' src={require('../Assets/Group 117.png')} />
+        <img className='w-16 h-16 border-1 p-3 border-2 rounded-[50%] border-varal-blue ' src={require('../Assets/Group 117.png')} alt="img"  />
     </div>
     <div className='flex justify-center relative' >
         <div className='w-40 top-9 bg-orange-400 h-2 absolute ' ></div>

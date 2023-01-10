@@ -12,43 +12,43 @@ const Pricing = () => {
         </div>
         <h3 className='text-xl font-medium my-6'>Ajman Offshore New Company formation includes</h3>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img"  />
             <p>Attestation Charges</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img"  />
             <p>Registered Agent</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img"  />
             <p>Registered Office</p>
         </div>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Varal Administration</p>
         </div>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Preparing Statutory File</p>
         </div>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Liasing with Registration Authorities</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Due Diligence Appraisal</p>
         </div>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Keeping The Register</p>
         </div>
         <div className= 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Seal Charges</p>
         </div>
         <div className = 'flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Certificate of Good Standing</p>
         </div>
         <div className='flex mt-10 justify-center'>
@@ -117,43 +117,43 @@ const Pricing = () => {
         </div>
         <h3 className='text-xl font-medium my-6'>Sharjah Media City New Company formation includes</h3>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Attestation Charges</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Registered Agent</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Registered Office</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Varal Administration</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Preparing Statutory File</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Liasing with Registration Authorities</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Due Diligence Appraisal</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Keeping The Register</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Seal Charges</p>
         </div>
         <div className ='flex items-center mb-4 gap-1'>
-            <img src={require('../Assets/Group 35.png')} />
+            <img src={require('../Assets/Group 35.png')} alt="img" />
             <p>Certificate of Good Standing</p>
         </div>
 

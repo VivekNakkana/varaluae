@@ -37,7 +37,7 @@ const Section6Left = () => {
         </div>
 
         <div className='flex gap-4 relative' >
-            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="" />
+            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="img" />
             <div className='w-14 h-[3px] bg-varal-blue absolute top-32 '></div>
             <div>
                 <p className='text-xl font-body'>"I am very happy with them. I'll <br /> continue to use their services in <br /> future & highly recommend them to <br /> anyone"</p>
@@ -45,7 +45,7 @@ const Section6Left = () => {
             </div>
         </div>
         <div className='flex gap-4 relative my-10' >
-            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="" />
+            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="img" />
             <div className='w-14 h-[3px] bg-varal-blue absolute top-32 '></div>
             <div>
                 <p className='text-xl font-body'>"Your advice was so complete that I <br /> actually realized how beneficial <br />this would be to my clients and my <br />business "</p>
@@ -53,7 +53,7 @@ const Section6Left = () => {
             </div>
         </div>
         <div className='flex gap-4 relative ' >
-            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="" />
+            <img className='p-2 border-2 border-varal-blue mt-2 rounded-[50%] w-16 h-16  ' src={require('../Assets/Vector-3.png')} alt="img" />
             <div className='w-14 h-[3px] bg-varal-blue absolute top-32 '></div>
             <div>
                 <p className='text-xl font-body'>"Rama has a high level of integrity, <br /> intellect, knowledge of his business,<br /> resourcefulness and <br /> humanity."</p>
